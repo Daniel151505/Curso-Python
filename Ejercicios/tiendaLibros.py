@@ -12,3 +12,7 @@ elif envioGratuito == "False":
 else:
     envioGratuito = "Valor incorreccto , debe ser True/False"
     
+print("Nombre:", nombre)
+print("Id:", id)
+print("Precio:", precio)
+print("Envio Gratuito:" , envioGratuito)
