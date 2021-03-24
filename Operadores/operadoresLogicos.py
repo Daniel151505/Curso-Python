@@ -1,4 +1,4 @@
-a = int(input("Proporciona un valor: "))
+#a = int(input("Proporciona un valor: "))
 
 valorMinimo = 0
 valorMaximo = 5
