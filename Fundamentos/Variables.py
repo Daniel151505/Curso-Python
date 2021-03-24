@@ -8,3 +8,4 @@ print(z)
 
 w=z
 
+print(w)
