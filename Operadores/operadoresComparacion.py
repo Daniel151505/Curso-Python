@@ -6,3 +6,6 @@ print(resultado)
 
 resultado = a != b
 print(resultado)
+
+resultado = a > b
+print(resultado)
