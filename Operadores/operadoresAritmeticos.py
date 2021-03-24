@@ -4,3 +4,4 @@ suma = a + b
 resta = a - b
 
 print("suma:" , suma)
+print("resta:" , resta)
