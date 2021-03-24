@@ -5,10 +5,12 @@ resta = a - b
 multi = a * b
 division = a / b
 modulo = a % b
+exponente = a ** b
 
 print("suma:" , suma)
 print("resta:" , resta)
 print("multiplicacion:" , multi)
 print("division:", division)
 print("modulo:", modulo)
+print("exponente:", exponente)
 
