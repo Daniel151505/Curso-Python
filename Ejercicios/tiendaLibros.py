@@ -5,3 +5,10 @@ id = int (input("Proporcione el ID:"))
 precio = float(input("Proporcione el precio:"))
 envioGratuito = input("Indica si el envio es gratuito(True/False):")
 
+if envioGratuito == "True":
+    envioGratuito = True
+elif envioGratuito == "False":
+    envioGratuito = False
+else:
+    envioGratuito = "Valor incorreccto , debe ser True/False"
+    
