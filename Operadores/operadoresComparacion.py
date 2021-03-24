@@ -26,3 +26,8 @@ else:
     
 edadLimite = 18
 edadPersona = 5
+
+if(edadPersona > edadLimite) :
+    print("es un adulto")
+else: 
+    print("es menor de edad")
