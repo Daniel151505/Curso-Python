@@ -5,3 +5,7 @@ z = False
 print(x)
 print(y)
 print(z)
+
+#La funcion type no se puede llamar desde vsc
+
+type(x)
