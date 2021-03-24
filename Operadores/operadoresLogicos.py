@@ -9,3 +9,6 @@ if(dentroRango):
     print("dentro de rango")
 else:
     print("fuera de rango")
+    
+vacaciones = False
+diaDescanso = False
