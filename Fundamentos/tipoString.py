@@ -1,3 +1,3 @@
 cadena = "supercadena"
 
-print(cadena)
+print("Esto es una " + cadena)
