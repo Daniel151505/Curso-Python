@@ -21,3 +21,7 @@ print(planetas)
 #eliminar con discard no arroja excepción
 planetas.discard("Jupiters")
 print(planetas)
+
+#limpiar el set
+planetas.clear()
+print(planetas)
