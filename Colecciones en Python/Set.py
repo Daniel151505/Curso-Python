@@ -13,3 +13,7 @@ print("Marte" in planetas)
 #no se puede agregar elementos duplicados
 planetas.add("Tierra")
 print(planetas)
+
+#eliminar con remove posiblemente arroja excepción
+planetas.remove("Tierras")
+print(planetas)
