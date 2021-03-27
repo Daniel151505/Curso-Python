@@ -2,3 +2,6 @@
 #  los elementos no se pueden modificar, pero si agregar nuevos o eliminar
 planetas = {"Marte", "Jupiter", "Venus"}
 print(planetas)
+
+#largo
+print(len(planetas))
