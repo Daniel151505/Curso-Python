@@ -10,5 +10,6 @@ print(len(planetas))
 print("Marte" in planetas)
 
 #agregar
+#no se puede agregar elementos duplicados
 planetas.add("Tierra")
 print(planetas)
