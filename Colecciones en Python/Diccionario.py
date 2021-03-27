@@ -32,3 +32,7 @@ for valor in diccionario.values():
     
 #comprobando existencia de un elemento
 print ("IDE" in diccionario)
+
+#agregar nuevos elementos
+diccionario["PK"] = "Primary Key"
+print(diccionario)
