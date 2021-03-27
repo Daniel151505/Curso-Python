@@ -12,4 +12,4 @@ elif mes == 9 or mes == 10 or mes == 11:
 else: 
     estacion = "Mes incorrecto"
 
-print("Estación:", estación, "para el mes:", mes)
+print("Estacion:", estacion, "para el mes", mes)
