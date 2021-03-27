@@ -49,4 +49,7 @@ print(nombres)
 #remover un elemento 
 nombres.remove("Octavio")
 print(nombres)
-    
+
+#remover el ultimo elemento de nuestra lista
+nombres.pop()
+print(nombres)
