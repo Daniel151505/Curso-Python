@@ -9,3 +9,7 @@ print(diccionario)
 
 #largo
 print(len(diccionario))
+
+#accediendo a un elemento
+print(diccionario["IDE"])
+
