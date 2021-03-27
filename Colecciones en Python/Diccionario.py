@@ -36,3 +36,8 @@ print ("IDE" in diccionario)
 #agregar nuevos elementos
 diccionario["PK"] = "Primary Key"
 print(diccionario)
+
+#remover elementos
+diccionario.pop("DBMS")
+print(diccionario)
+
