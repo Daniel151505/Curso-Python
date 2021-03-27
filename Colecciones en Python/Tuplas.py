@@ -11,3 +11,5 @@ print(frutas[2])
 #navegación inversa
 print(frutas[-1])
 
+#rango
+print(frutas[0:2])
