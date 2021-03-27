@@ -19,3 +19,13 @@ print (diccionario.get("IDE"))
 #modificando valores
 diccionario["IDE"]="Integrated development environment"
 print(diccionario)
+
+#iterar 
+for termino in diccionario:
+    print(termino)
+    
+for termino in diccionario:
+    print(diccionario[termino])
+    
+for valor in diccionario.values():
+    print(valor)
