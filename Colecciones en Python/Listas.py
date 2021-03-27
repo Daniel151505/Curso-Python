@@ -45,4 +45,8 @@ print(nombres)
 #insertar un nuevo elemento en el indice proporcionado
 nombres.insert(1, "Octavio")
 print(nombres)
+
+#remover un elemento 
+nombres.remove("Octavio")
+print(nombres)
     
