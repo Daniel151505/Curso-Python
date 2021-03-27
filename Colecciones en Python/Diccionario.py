@@ -16,3 +16,6 @@ print(diccionario["IDE"])
 #otra forma, mismo resultado"
 print (diccionario.get("IDE"))
 
+#modificando valores
+diccionario["IDE"]="Integrated development environment"
+print(diccionario)
