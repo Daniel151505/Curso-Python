@@ -4,3 +4,5 @@
 #    print("Ejecutando ciclo while")
 #else: 
 #    print("Fin ciclo while")
+
+i = 0
