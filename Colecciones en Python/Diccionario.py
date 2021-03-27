@@ -5,3 +5,4 @@ diccionario = {
     "DBMS": "Database Management System"
 }
 
+print(diccionario)
