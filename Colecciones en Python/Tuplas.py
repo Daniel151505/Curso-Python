@@ -12,4 +12,10 @@ print(frutas[2])
 print(frutas[-1])
 
 #rango
-print(frutas[0:2])
+print(frutas[0:2]) #excluyendo el indice 2
+
+#modificar un valor
+frutaLista = list(frutas)
+frutaLista[1] = "Platanito"
+frutas = tuple(frutaLista)
+print(frutas)
