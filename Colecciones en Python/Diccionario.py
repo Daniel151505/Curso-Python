@@ -45,3 +45,5 @@ print(diccionario)
 diccionario.clear()
 print(diccionario)
 
+#eliminar por completo
+del diccionario
