@@ -38,3 +38,7 @@ if "Karla" in nombres:
 else:
     print("El elemento buscado no existe en la lista")
     
+#agregar un nuevo elemento
+nombres.append("Lorenzo")
+print(nombres)
+    
