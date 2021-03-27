@@ -57,3 +57,7 @@ print(nombres)
 #remover el indice indicado de la lista
 del nombres[0]
 print(nombres)
+
+#limpiar los elementos de nuestra lista
+nombres.clear()
+print(nombres)
