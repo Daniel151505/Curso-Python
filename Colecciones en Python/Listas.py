@@ -12,3 +12,7 @@ print(nombres[1])
 
 print(nombres[-1])
 print(nombres[-2])
+
+#imprimir rango
+
+print(nombres[0:2]) #sin incluir el indice 2
