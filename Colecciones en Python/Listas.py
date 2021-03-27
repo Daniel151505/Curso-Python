@@ -53,3 +53,7 @@ print(nombres)
 #remover el ultimo elemento de nuestra lista
 nombres.pop()
 print(nombres)
+
+#remover el indice indicado de la lista
+del nombres[0]
+print(nombres)
