@@ -27,3 +27,7 @@ print(nombres[1:])
 #cambiar los elementos de una lista
 nombres[3] = "Ivone"
 print(nombres)
+
+#iterar la lista
+for nombre in nombres: 
+    print(nombre)
