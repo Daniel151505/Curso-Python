@@ -29,3 +29,6 @@ for termino in diccionario:
     
 for valor in diccionario.values():
     print(valor)
+    
+#comprobando existencia de un elemento
+print ("IDE" in diccionario)
