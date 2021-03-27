@@ -17,3 +17,7 @@ print(planetas)
 #eliminar con remove posiblemente arroja excepción
 planetas.remove("Tierras")
 print(planetas)
+
+#eliminar con discard no arroja excepción
+planetas.discard("Jupiters")
+print(planetas)
