@@ -4,3 +4,6 @@ print(frutas)
 
 #largo de la tupla
 print(len(frutas))
+
+#accediendo a un elemento 
+print(frutas[2])
