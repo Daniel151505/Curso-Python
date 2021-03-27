@@ -13,3 +13,6 @@ print(len(diccionario))
 #accediendo a un elemento
 print(diccionario["IDE"])
 
+#otra forma, mismo resultado"
+print (diccionario.get("IDE"))
+
