@@ -25,3 +25,7 @@ print(planetas)
 #limpiar el set
 planetas.clear()
 print(planetas)
+
+#eliminar el set
+del planetas
+
