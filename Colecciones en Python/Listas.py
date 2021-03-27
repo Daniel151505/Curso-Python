@@ -31,3 +31,10 @@ print(nombres)
 #iterar la lista
 for nombre in nombres: 
     print(nombre)
+    
+#revisar si existe un elemento en la lista
+if "Karla" in nombres:
+    print("Karla si existe en la lista")
+else:
+    print("El elemento buscado no existe en la lista")
+    
