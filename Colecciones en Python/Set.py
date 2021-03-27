@@ -8,3 +8,7 @@ print(len(planetas))
 
 #revisar si un elemento está presente
 print("Marte" in planetas)
+
+#agregar
+planetas.add("Tierra")
+print(planetas)
