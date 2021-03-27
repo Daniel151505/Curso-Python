@@ -19,3 +19,8 @@ frutaLista = list(frutas)
 frutaLista[1] = "Platanito"
 frutas = tuple(frutaLista)
 print(frutas)
+
+#Iterar una tupla 
+for fruta in frutas:
+    print(fruta, end=" ")
+    
