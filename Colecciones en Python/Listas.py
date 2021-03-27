@@ -23,3 +23,7 @@ print(nombres[:3])# sin incluir el indice 3
 
 #imprimir los elementos hasta el final desde el indice proporcionado
 print(nombres[1:])
+
+#cambiar los elementos de una lista
+nombres[3] = "Ivone"
+print(nombres)
