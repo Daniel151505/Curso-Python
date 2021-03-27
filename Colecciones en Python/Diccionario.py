@@ -6,3 +6,6 @@ diccionario = {
 }
 
 print(diccionario)
+
+#largo
+print(len(diccionario))
