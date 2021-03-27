@@ -7,3 +7,7 @@ print(len(frutas))
 
 #accediendo a un elemento 
 print(frutas[2])
+
+#navegación inversa
+print(frutas[-1])
+
