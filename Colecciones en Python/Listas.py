@@ -16,3 +16,7 @@ print(nombres[-2])
 #imprimir rango
 
 print(nombres[0:2]) #sin incluir el indice 2
+
+#imprimir los elementos de inicio hasa el indice proporcionado
+
+print(nombres[:3])# sin incluir el indice 3
