@@ -41,3 +41,7 @@ print(diccionario)
 diccionario.pop("DBMS")
 print(diccionario)
 
+#limpiar
+diccionario.clear()
+print(diccionario)
+
