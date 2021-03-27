@@ -7,3 +7,8 @@ print(len(nombres))
 #elemento 0
 print(nombres[0])
 print(nombres[1])
+
+#navegacion inversa
+
+print(nombres[-1])
+print(nombres[-2])
