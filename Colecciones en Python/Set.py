@@ -5,3 +5,6 @@ print(planetas)
 
 #largo
 print(len(planetas))
+
+#revisar si un elemento está presente
+print("Marte" in planetas)
