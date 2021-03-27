@@ -41,4 +41,8 @@ else:
 #agregar un nuevo elemento
 nombres.append("Lorenzo")
 print(nombres)
+
+#insertar un nuevo elemento en el indice proporcionado
+nombres.insert(1, "Octavio")
+print(nombres)
     
