@@ -61,3 +61,7 @@ print(nombres)
 #limpiar los elementos de nuestra lista
 nombres.clear()
 print(nombres)
+
+#eliminar por completo la lista
+del nombres
+print(nombres)
